@@ -92,7 +92,7 @@ With the help of python we will make simple game moves and handle the wining and
 
 	System check identified no issues (0 silenced).
 
-	You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, 	contenttypes, sessions.
+	You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
 	Run 'python manage.py migrate' to apply them.
 	July 17, 2018 - 11:30:30
 	Django version 2.0.7, using settings 'tictactoe.settings'
