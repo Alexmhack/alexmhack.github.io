@@ -18,12 +18,12 @@ With the help of python we will make simple game moves and handle the wining and
 1. Create virtualenv for our django project using the terminal, if you don't have virtaulenv
 	installed then install it using the pip command, to know why virtualenv is important visit [virtualenv importance](https://www.getfilecloud.com/blog/working-with-virtualenv-on-django-projects/)
 
-```markdown
+	```markdown
 
-$ pip install virtualenv
-$ virtualenv env
+	$ pip install virtualenv
+	$ virtualenv env
 
-```
+	```
 
 	here the virtualenv is the module which is invoked on our call and 'env' is the folder in which
 	our virtual environment will be saved
@@ -33,7 +33,7 @@ $ virtualenv env
 
 	```markdown
 
-	$ env\Scripts\activate
+	$ env\\Scripts\\activate
 
 	```
 
@@ -43,7 +43,7 @@ $ virtualenv env
 
 	```markdown
 
-	$ env\scripts\activate
+	$ env\\scripts\\activate
 
 	```
 	
