@@ -13,7 +13,7 @@ The tictactoe game will have the same functionality but with the help of forns u
 
 With the help of python we will make simple game moves and handle the wining and losing users data
 
-### Steps for Djagno Game
+### Steps for Django Game
 
 1. Create virtualenv for our django project using the terminal, if you don't have virtaulenv
 	installed then install it using the pip command
