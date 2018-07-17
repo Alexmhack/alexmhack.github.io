@@ -1,4 +1,4 @@
-## Djagno Tictatoe Game
+## Django Tictatoe Game
 
 This game is gonna be from the pluralsight django tutorial.
 
