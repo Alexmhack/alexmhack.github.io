@@ -25,8 +25,8 @@ $ virtualenv env
 
 ```
 
-here the virtualenv is the module which is invoked on our call and 'env' is the folder in which
-our virtual environment will be saved
+	here the virtualenv is the module which is invoked on our call and 'env' is the folder in which
+	our virtual environment will be saved
 
 2. Now the first thing after opening every terminal for our project is to activate our 
 	virtualenv by entering this in the terminal
