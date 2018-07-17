@@ -16,7 +16,7 @@ With the help of python we will make simple game moves and handle the wining and
 ### Steps for Django Game
 
 1. Create virtualenv for our django project using the terminal, if you don't have virtaulenv
-	installed then install it using the pip command
+	installed then install it using the pip command, to know why virtualenv is important visit [virtualenv importance](https://www.getfilecloud.com/blog/working-with-virtualenv-on-django-projects/)
 
 ```markdown
 
