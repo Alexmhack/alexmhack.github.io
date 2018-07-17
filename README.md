@@ -1,6 +1,6 @@
 ## Djagno Tictatoe Game
 
-This game is gonna be from the plurasight django tutorial.
+This game is gonna be from the pluralsight django tutorial.
 We will be making a user authentication system in django.
 We will use django_crispy forms tags to make real simple and easy forms for login page.
 Users can also send game invitations to other users in the database, for simple usages we will use the SQlite3 database that comes
