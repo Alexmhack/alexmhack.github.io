@@ -60,4 +60,20 @@ With the help of python we will make simple game moves and handle the wining and
 	
 	the pytz module installed with django is for the timezones for our django server
 
-4. Coming right up...
+4. Now enough of the drama, start the django project
+
+	```markdown
+
+	$ django-admin.py startproject tictactoe
+
+	```
+
+	You can look at the tictactoe folder containing a file and a folder
+
+	```markdown
+
+	+ django_tictactoe_game
+		+ tictactoe
+		+ manage.py
+
+	```
