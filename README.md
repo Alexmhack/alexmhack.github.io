@@ -104,3 +104,5 @@ With the help of python we will make simple game moves and handle the wining and
 	**just ignore the warning for now, we will discuss those in next step.**
 	
 	Visit link http://127.0.0.1:8000/ in your browser and you can see the django welcome page.
+
+6. Coming soon...
