@@ -48,3 +48,16 @@ With the help of python we will make simple game moves and handle the wining and
 	```
 	
 	This will also work
+
+3. Once you have activated the env you can install the necessary packages among which, yeah you 
+	guessed right, django is the one we need and work with most in our project
+
+	```markdown
+
+	$ pip install django
+
+	```
+	
+	the pytz module installed with django is for the timezones for our django server
+
+4. Coming right up...
