@@ -77,3 +77,30 @@ With the help of python we will make simple game moves and handle the wining and
 		+ manage.py
 
 	```
+
+5. The first thing you should do and it is the most exciting for us beginners in django is to
+	actually start the server and watch our project go live locally on our systems
+
+	inside the folder where your manage.py file lies run this command in terminal, you should
+	see something like this
+	
+	```markdown
+
+	$ python manage.py runserver
+
+	Performing system checks...
+
+	System check identified no issues (0 silenced).
+
+	You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, 	contenttypes, sessions.
+	Run 'python manage.py migrate' to apply them.
+	July 17, 2018 - 11:30:30
+	Django version 2.0.7, using settings 'tictactoe.settings'
+	Starting development server at http://127.0.0.1:8000/
+	Quit the server with CTRL-BREAK.
+
+	```
+	
+	**just ignore the warning for now, we will discuss those in next step.**
+	
+	Visit link http://127.0.0.1:8000/ in your browser and you can see the django welcome page.
