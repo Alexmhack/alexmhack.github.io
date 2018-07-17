@@ -33,7 +33,7 @@ With the help of python we will make simple game moves and handle the wining and
 
 	```markdown
 
-	$ env\\Scripts\\activate
+	$ env\Scripts\activate
 
 	```
 
@@ -43,7 +43,7 @@ With the help of python we will make simple game moves and handle the wining and
 
 	```markdown
 
-	$ env\\scripts\\activate
+	$ env\scripts\activate
 
 	```
 	
